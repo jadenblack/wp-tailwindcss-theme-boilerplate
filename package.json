@@ -16,19 +16,19 @@
   "author": "Phil Kurth <phil@philkurth.com.au>",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^3.0.4",
     "browser-sync-webpack-plugin": "^2.2.2",
     "cross-env": "^5.2.0",
     "fs": "0.0.1-security",
     "glob-all": "^3.2.1",
-    "laravel-mix": "^4.0.14",
-    "laravel-mix-purgecss": "^4.2.0",
+    "laravel-mix": "^6.0.49",
+    "laravel-mix-purgecss": "^6.0.0",
     "laravel-mix-tailwind": "^0.1.0",
     "laravel-mix-versionhash": "1.0.8",
-    "resolve-url-loader": "2.3.1",
+    "resolve-url-loader": "5.0.0",
     "sass": "^1.26.11",
     "sass-loader": "7.*",
     "tailwindcss": "^2.1.2",
-    "vue-template-compiler": "^2.6.12"
+    "vue-template-compiler": "^2.7.16"
   }
 }
